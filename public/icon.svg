@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#07080B"/>
+  <polygon points="256,54 432,155 432,357 256,458 80,357 80,155" fill="#121621" stroke="#F0B938" stroke-width="22" stroke-linejoin="round"/>
+  <polygon points="256,92 399,174 399,338 256,420 113,338 113,174" fill="none" stroke="#D4A12A" stroke-opacity="0.35" stroke-width="4"/>
+  <text x="256" y="302" text-anchor="middle" fill="#F0B938" font-family="Arial, sans-serif" font-weight="800" font-size="148" letter-spacing="4">UC</text>
+</svg>

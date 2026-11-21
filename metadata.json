@@ -1,0 +1,6 @@
+{
+  "name": "Karimov UC Shop",
+  "description": "Магазин UC для PUBG Mobile от Каримова Абдучалола — оплата через DC (021090008) и поддержка через Telegram-бот.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
